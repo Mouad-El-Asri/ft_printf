@@ -6,13 +6,13 @@
 /*   By: moel-asr <moel-asr@student.1337.ma>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/10/22 21:16:33 by moel-asr          #+#    #+#             */
-/*   Updated: 2022/10/24 07:14:30 by moel-asr         ###   ########.fr       */
+/*   Updated: 2022/10/25 23:01:54 by moel-asr         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "../ft_printf.h"
 
-int	ft_putaddress(size_t n)
+int	ft_putaddress(unsigned long n)
 {
 	int	i;
 
