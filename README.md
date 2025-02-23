@@ -55,7 +55,7 @@ Once you've cloned the repository, you can compile the `ft_printf` project by fo
 4. You can then compile and run your program:
 
     ```bash
-    gcc main.c -L . -lftprintf
+    gcc main.c -L . -l ftprintf
     ./a.out
     ```
 
