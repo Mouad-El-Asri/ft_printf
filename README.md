@@ -2,7 +2,7 @@
 
 ## Description
 
-`ft_printf` is a custom implementation of the `printf` function in C. The project was developed to demonstrate a deep understanding of formatting and output in C, as well as memory management. It mimics the standard `printf` function while supporting various format specifiers and flags to handle formatted data.
+`ft_printf` is a custom implementation of the `printf` function in C. It mimics the standard `printf` function while supporting various format specifiers and flags to handle formatted data.
 
 ## Features
 
